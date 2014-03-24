@@ -1,5 +1,5 @@
-angular-maha-bower
-==================
+angular-maha-countries
+======================
 
 Usage
 -----
