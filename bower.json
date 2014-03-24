@@ -1,0 +1,28 @@
+{
+  "name": "angular-maha-countries",
+  "version": "0.1",
+  "homepage": "https://github.com/MichalMazurek/angular-maha-countries",
+  "authors": [
+    "Michal Mazurek <mazurek.michal@gmail.com>"
+  ],
+  "description": "Countries list for 266 locales",
+  "main": "countries.coffee",
+  "keywords": [
+    "angular",
+    "i18n"
+  ],
+  "dependancies": {
+    "angular": ">=1.2"
+  },
+  "devDependancies": {
+    "coffeescript", ">=1.7"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
