@@ -14,9 +14,6 @@
   "dependancies": {
     "angular": ">=1.2"
   },
-  "devDependancies": {
-    "coffeescript", ">=1.7"
-  },
   "license": "MIT",
   "ignore": [
     "**/.*",
