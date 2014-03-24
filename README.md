@@ -13,4 +13,9 @@ type="text/javascript"></script>
 type="text/javascript"></script>
 ```
 
+Source
+------
+
+List of countries from https://github.com/umpirsky/country-list
+converted using: https://github.com/MichalMazurek/country-list-converter
 
