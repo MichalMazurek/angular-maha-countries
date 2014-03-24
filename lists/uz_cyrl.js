@@ -1,0 +1,1 @@
+(function(){ angular.module('maha.countries').config(function(CountriesProvider){CountriesProvider.setCountriesList({"UZ":"\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d"});});}).call(this);

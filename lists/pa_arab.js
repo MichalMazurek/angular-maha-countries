@@ -1,0 +1,1 @@
+(function(){ angular.module('maha.countries').config(function(CountriesProvider){CountriesProvider.setCountriesList({"PK":"\u067e\u06a9\u0633\u062a\u0627\u0646","IN":"\u0a2d\u0a3e\u0a30\u0a24"});});}).call(this);

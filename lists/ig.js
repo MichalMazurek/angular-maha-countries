@@ -1,0 +1,1 @@
+(function(){ angular.module('maha.countries').config(function(CountriesProvider){CountriesProvider.setCountriesList({"BM":"Bemuda","BJ":"Binin","CN":"Chaina","KM":"Comorosu","HT":"Hati","LY":"Libyia","MV":"Maldivesa","NG":"Nigeria"});});}).call(this);

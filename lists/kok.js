@@ -1,0 +1,1 @@
+(function(){ angular.module('maha.countries').config(function(CountriesProvider){CountriesProvider.setCountriesList({"IN":"\u092d\u093e\u0930\u0924"});});}).call(this);
