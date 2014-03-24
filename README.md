@@ -35,6 +35,26 @@ indexApp.controller "IndexController",
       $scope.country = Countries.getCountryByCode "GB"
 ```
 
+### Select and ng-options ###
+
+*Countries.getCountries()* returns a list of 2-element arrays.
+```
+[
+  ['PL', 'Poland'],
+  ['DE', 'Germany']
+  ...
+]
+```
+
+Ng-options usage:
+
+```html
+<select 
+  ng-options="country[0] as country[1] for country in countries"></select>
+```
+
+Have fun :)
+
 Configuration
 -------------
 
